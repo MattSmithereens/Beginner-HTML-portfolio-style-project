@@ -1,0 +1,63 @@
+body {
+  font-family: sans-serif;
+  /*background-color: #3e6068;*/
+  background: linear-gradient(to right, #d4f998 , #f1fce0);
+}
+
+p {
+  font-size: .95em;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+.jumbotron {
+  background-color: #f1fce0;
+}
+
+.content-text {
+  padding: 15px;
+}
+
+.section-title {
+  font-weight: bold;
+  color: orange;
+}
+
+.portrait {
+  padding: 5px;
+  margin: 5px;
+  width: 95%;
+  justify-content: center;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.header {
+  margin: 5px;
+}
+
+.panel-info {
+  background-color: yellow;
+}
+
+.panel-heading {
+  background-color: orange;
+  color: blue;
+}
+
+
+.panel {
+  background-color: #f1fce0;
+}
