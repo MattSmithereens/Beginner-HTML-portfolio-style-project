@@ -16,8 +16,12 @@ h2 {
   font-size: 25px;
 }
 
-.jumbotron {
+.lightcolor {
   background-color: #f1fce0;
+}
+
+.darkcolor {
+  background-color: #d4f998;
 }
 
 .content-text {
@@ -48,16 +52,7 @@ h2 {
   margin: 5px;
 }
 
-.panel-info {
-  background-color: yellow;
-}
-
 .panel-heading {
-  background-color: orange;
+  background-color: green;
   color: blue;
-}
-
-
-.panel {
-  background-color: #f1fce0;
 }
