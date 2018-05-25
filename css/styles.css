@@ -1,6 +1,5 @@
 body {
   font-family: sans-serif;
-  /*background-color: #3e6068;*/
   background: linear-gradient(to right, #04385b , #eaf3f9);
 }
 
@@ -15,6 +14,17 @@ p {
 
 h2 {
   font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #04385b;
+}
+
+h4 {
+  font-size: 20px;
+  color: #04385b;
 }
 
 .panel {
@@ -41,6 +51,10 @@ h2 {
   background-color: #04385b;
 }
 
+.white {
+  background-color: #FFFFFF;
+}
+
 .lightcolor {
   background-color: #eaf3f9;
 }
@@ -49,7 +63,7 @@ h2 {
   background-color: #04385b;
 }
 
-.content-text {
+.buffer {
   padding: 15px;
 }
 
@@ -70,6 +84,16 @@ h2 {
   border: 2px;
   border-color: #04385b;
   justify-content: center;
+}
+
+.thumbnail {
+  padding: 5px;
+  margin: 5px;
+  width: 200px;
+  border: 2px;
+  border-color: #04385b;
+  float: left;
+  vertical-align: top;
 }
 
 .left {
