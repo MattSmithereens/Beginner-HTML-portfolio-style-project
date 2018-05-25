@@ -1,27 +1,52 @@
 body {
   font-family: sans-serif;
   /*background-color: #3e6068;*/
-  background: linear-gradient(to right, #d4f998 , #f1fce0);
+  background: linear-gradient(to right, #04385b , #eaf3f9);
 }
 
 p {
   font-size: .95em;
 }
 
-h1 {
+.jumbotron {
   font-size: 50px;
+  color: #04385b;
 }
 
 h2 {
-  font-size: 25px;
+  font-size: 40px;
+}
+
+.panel {
+  border: 1px solid #04385b;
+  border-color: #04385b;
+}
+
+.panel-info {
+  border-color: #04385b;
+  background-color: #04385b;
+}
+
+.panel-info > .panel-heading {
+  background-color: #04385b;
+}
+
+.panel-title {
+  border-color: #04385b;
+  background-color: #04385b;
+}
+
+.panel-heading {
+  border-color: #04385b;
+  background-color: #04385b;
 }
 
 .lightcolor {
-  background-color: #f1fce0;
+  background-color: #eaf3f9;
 }
 
 .darkcolor {
-  background-color: #d4f998;
+  background-color: #04385b;
 }
 
 .content-text {
@@ -30,13 +55,20 @@ h2 {
 
 .section-title {
   font-weight: bold;
-  color: orange;
+  color: #eaf3f9;
+}
+
+.main-title {
+  font-weight: bold;
+  color: #04385b;
 }
 
 .portrait {
   padding: 5px;
   margin: 5px;
   width: 95%;
+  border: 2px;
+  border-color: #04385b;
   justify-content: center;
 }
 
@@ -50,9 +82,4 @@ h2 {
 
 .header {
   margin: 5px;
-}
-
-.panel-heading {
-  background-color: green;
-  color: blue;
 }
