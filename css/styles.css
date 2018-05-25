@@ -4,7 +4,11 @@ body {
 }
 
 p {
-  font-size: .95em;
+  font-size: 1.1em;
+}
+
+b {
+  color: #04385b;
 }
 
 .jumbotron {
@@ -95,10 +99,6 @@ h4 {
   float: left;
   vertical-align: top;
 }
-
-/*.center {
-  align-items: center;
-}*/
 
 .left {
   float: left;
