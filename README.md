@@ -1,4 +1,4 @@
-# Portfolio style website excercise
+# _Portfolio style_ website excercise
 
 ## Epicodus Independent Project #1, 05.25.2018
 
@@ -6,7 +6,7 @@
 
 #### Description
 
-This is our initial independent project: a portfolio website.  *THIS IS NOT MY PORTFOLIO.  THIS IS MY FIRST WEEK'S PROJECT*
+This is our initial independent project: a portfolio website.  **THIS IS NOT MY PORTFOLIO.  THIS IS A PROJECT DONE AT THE END OF MY FIRST WEEK OF WORKING WITH HTML AND CSS**
 
 #### Setup/Installation Requirements
 
