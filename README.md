@@ -10,7 +10,7 @@ This is our initial independent project: a portfolio website.  **THIS IS NOT MY 
 
 #### Setup/Installation Requirements
 
-* Clone this repository and view locally or [view on the web](https://mattsmithereens.github.io/Portfolio/).  
+* Clone this repository and view locally or [view on the web](https://mattsmithereens.github.io/Beginner-HTML-portfolio-style-project/).  
 
 #### Support and contact details
 
